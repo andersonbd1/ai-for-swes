@@ -5,7 +5,7 @@ import re
 from typing import Union
 from langchain.chat_models import init_chat_model
 
-os.environ["OPENAI_API_KEY"] = "voc-62161097126677383455067ac76d27f0ad0.64235909"
+os.environ["OPENAI_API_KEY"] = "REDACTED"
 os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 
 def read_file(filename: str) -> Union[str, None]:
