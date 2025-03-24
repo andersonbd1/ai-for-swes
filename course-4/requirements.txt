@@ -1,0 +1,13 @@
+langchain
+openai
+langchain-openai
+pydantic
+pytest
+sentence-transformers
+transformers
+chromadb
+jupyter
+tiktoken
+langchain_community
+langchain[openai]
+lancedb

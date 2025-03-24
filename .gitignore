@@ -1,0 +1,8 @@
+venv/
+*.zip
+data/
+unzipped/
+.idea/
+*.frozen
+*.old
+*.csv
